@@ -1,6 +1,6 @@
 # Hi 👋, I'm GreyXor 👨‍💻 Indie Hacker
 
-❤️ [Happy with my contributions ? You can consider supporting my work](https://ko-fi.com/greyxor)
+[❤️ Enjoying my work? Consider supporting it to keep the magic going!](https://ko-fi.com/greyxor)
 
 ## Roles:
 - System/Network and Software Security Engineer
