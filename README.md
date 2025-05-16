@@ -2,8 +2,25 @@
 
 [❤️ Enjoying my work? Consider supporting it to keep the magic going!](https://ko-fi.com/greyxor)
 
-## Roles:
-- System/Network and Software Security Engineer
-- K8S DevSecOps Specialist
-- Full-Stack developer
-- Linux, BSD and Free software enthusiast
+---
+
+## 🚀 About Me
+
+🧠 Passionate about systems, security, and scalable software  
+🔐 Focused on **System/Network Security**, **DevSecOps**, and **Free Software**  
+🛠️ Indie hacker building projects I love and believe in  
+🧰 I **hack stuff** — software, hardware, and everything in between  
+🐧 Dedicated to the Linux and BSD way of life
+
+---
+
+## 💼 Roles I Play
+
+- 🛡️ **System/Network and Software Security Engineer**  
+- 🐳 **Kubernetes & DevSecOps Specialist**  
+- 🌐 **Full-Stack Developer**  
+- 🐧 **Linux, BSD, and Free Software Enthusiast**
+
+---
+
+> ⚡ _Hack. Learn. Repeat._ — GreyXor
