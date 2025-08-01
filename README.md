@@ -23,4 +23,4 @@
 
 ---
 
-> ⚡ _Hack. Learn. Repeat._ — GreyXor
+> ⚡ _Hack. Learn. Repeat._
