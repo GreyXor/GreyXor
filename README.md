@@ -6,11 +6,11 @@
 
 ## 🚀 About Me
 
-🧠 Passionate about systems, security, and scalable software  
-🔐 Focused on **System/Network Security**, **DevSecOps**, and **Free Software**  
-🛠️ Indie hacker building projects I love and believe in  
-🧰 I **hack stuff**, software, hardware, and everything in between  
-🐧 Dedicated to the Linux and BSD way of life
+- 🧠 Passionate about systems, security, and scalable software  
+- 🔐 Focused on **System/Network Security**, **DevSecOps**, and **Free Software**  
+- 🛠️ Indie hacker building projects I love and believe in  
+- 🧰 I **hack stuff**, software, hardware, and everything in between  
+- 🐧 Dedicated to the Linux and BSD way of life
 
 ---
 
