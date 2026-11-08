@@ -1,26 +1,28 @@
-# Hi, I'm GreyXor, Indie Hacker
+# Hi, I'm GreyXor
 
-[❤️ Enjoying my work? Consider supporting it to keep the magic going!](https://ko-fi.com/greyxor)
+Indie hacker and computer engineer interested in systems, security, and low-level software.
 
----
+I build things, break things, and enjoy figuring out how they work.
 
-## About Me
-
-- Passionate about systems, security, and scalable software  
-- Focused on **System/Network Security**, **DevSecOps**, and **Free Software**  
-- Indie hacker building projects I love and believe in  
-- I **hack stuff**, software, hardware, and everything in between  
-- Dedicated to the Linux and BSD way of life
+[Support my work on Ko-fi](https://ko-fi.com/greyxor)
 
 ---
 
-## Roles I Play
+## About
 
-- **System/Network and Software Security Engineer**  
-- **Kubernetes & DevSecOps Specialist**  
-- **Full-Stack Developer**  
-- **Linux, BSD, and Free Software Enthusiast**
+- Systems and network security
+- DevSecOps and infrastructure
+- Linux, BSD, and open-source software
+- Software and hardware tinkering
+- Building and maintaining independent projects
+
+## What I Work With
+
+- **Security:** System, network, and application security
+- **Infrastructure:** Kubernetes, Linux, networking, DevSecOps
+- **Development:** Full-stack development and software engineering
+- **Open Source:** Free software, self-hosting, and the Unix ecosystem
 
 ---
 
-> ⚡ _Hack. Learn. Repeat._
+> _Hack. Learn. Repeat._
